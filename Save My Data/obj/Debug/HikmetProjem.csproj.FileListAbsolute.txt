@@ -1,0 +1,32 @@
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\Save My Data.exe.config
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\Save My Data.exe
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\Save My Data.pdb
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\Guna.UI2.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\System.Data.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\System.Deployment.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\System.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\System.Drawing.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\System.Windows.Forms.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\System.Xml.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\System.Xml.Linq.dll
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\bin\Debug\MySql.Data.xml
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\HikmetProjem.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.addUserControl.home.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.Controls.istatislikk.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.Controls.testet.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.Dashboard.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.Loading.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.Login.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.Properties.Resources.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.Register.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save_My_Data.Yenile.resources
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\HikmetProjem.csproj.GenerateResource.cache
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\HikmetProjem.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\HikmetPr.E36C1727.Up2Date
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save My Data.exe
+C:\Users\Barış\Desktop\Kelimezberle\Save My Data\obj\Debug\Save My Data.pdb
